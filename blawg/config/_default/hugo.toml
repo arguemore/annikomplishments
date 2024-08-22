@@ -1,11 +1,11 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://today.arguemore.com/'
 languageCode = 'en-us'
 title = 'ANNIKOMPLISHMENTS'
 theme = 'hugo-angus'
 paginate = 8
 
 [params]
-  backgroundURL = "today.arguemore.com"
+  backgroundURL = "https://today.arguemore.com"
   logo = "TꕤDAY"
   isIconNav = true
 
