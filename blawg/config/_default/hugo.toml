@@ -1,12 +1,12 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'Twor'
-theme = "hugo-angus"
+title = 'ANNIKOMPLISHMENTS'
+theme = 'hugo-angus'
 paginate = 8
 
 [params]
   backgroundURL = ""
-  logo = "TW|OR"
+  logo = "TODAY"
   isIconNav = true
 
 [params.utteranc]
@@ -22,12 +22,12 @@ paginate = 8
 [menu]
   [[menu.main]]
     identifier = "posts"
-    name="博文"
+    name="Posts"
     url="/"
     weight="1"
   [[menu.main]]
     identifier = "about"
-    name="关于"
+    name="About"
     url="/about"
     weight="2"
 

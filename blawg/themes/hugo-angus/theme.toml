@@ -9,5 +9,5 @@ features = ["blog", "technical", "simple", "dark", "highlighting"]
 min_version = "0.41.0"
 
 [author]
-  name = "Twor"
+  name = "Annika"
   homepage = "https://twor.me"
