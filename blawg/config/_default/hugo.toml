@@ -5,7 +5,7 @@ theme = 'hugo-angus'
 paginate = 8
 
 [params]
-  backgroundURL = ""
+  backgroundURL = "today.arguemore.com"
   logo = "TꕤDAY"
   isIconNav = true
 
