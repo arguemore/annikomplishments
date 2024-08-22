@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Test on ANNIKOMPLISHMENTS</title>
-    <link>https://example.org/tags/test/</link>
+    <link>http://localhost:1313/tags/test/</link>
     <description>Recent content in Test on ANNIKOMPLISHMENTS</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 10 Jan 2022 16:57:14 +0800</lastBuildDate>
-    <atom:link href="https://example.org/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>linux</title>
-      <link>https://example.org/posts/blog1/</link>
+      <link>http://localhost:1313/posts/blog1/</link>
       <pubDate>Mon, 10 Jan 2022 16:57:14 +0800</pubDate>
-      <guid>https://example.org/posts/blog1/</guid>
+      <guid>http://localhost:1313/posts/blog1/</guid>
       <description>Hi there! This is a test post.</description>
     </item>
   </channel>
